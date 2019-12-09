@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\bin\Debug\bank-bussiness.exe
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\bin\Debug\bank-bussiness.pdb
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank_bussiness.Properties.Resources.resources
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.exe
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.pdb
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank-bussiness.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\bank-bussiness\bank-bussiness\obj\Debug\bank_bussiness.Form1.resources
